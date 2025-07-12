@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Emily DEVELOPMENT Journey</title>
-    <link href="https://www.emilyc206.fyi/feed.xml" rel="self" />
-    <link href="https://www.emilyc206.fyi" />
-    <updated>2025-07-11T16:01:02-07:00</updated>
+    <link href="https://emilyc206.fyi/feed.xml" rel="self" />
+    <link href="https://emilyc206.fyi" />
+    <updated>2025-07-11T17:48:22-07:00</updated>
     <author>
         <name>EmilyC206</name>
     </author>
-    <id>https://www.emilyc206.fyi</id>
+    <id>https://emilyc206.fyi</id>
 
     <entry>
         <title>Hello World / IT 125</title>
         <author>
             <name>EmilyC206</name>
         </author>
-        <link href="https://www.emilyc206.fyi/hello-world-it-125.html"/>
-        <id>https://www.emilyc206.fyi/hello-world-it-125.html</id>
+        <link href="https://emilyc206.fyi/hello-world-it-125.html"/>
+        <id>https://emilyc206.fyi/hello-world-it-125.html</id>
 
         <updated>2025-07-11T16:00:45-07:00</updated>
             <summary>
@@ -31,7 +31,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emilyc206.fyi/media/posts/1/000048300012.jpg" height="2075" width="3130" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.emilyc206.fyi/media/posts/1/responsive/000048300012-xs.jpg 640w ,https://www.emilyc206.fyi/media/posts/1/responsive/000048300012-sm.jpg 768w ,https://www.emilyc206.fyi/media/posts/1/responsive/000048300012-md.jpg 1024w ,https://www.emilyc206.fyi/media/posts/1/responsive/000048300012-lg.jpg 1366w ,https://www.emilyc206.fyi/media/posts/1/responsive/000048300012-xl.jpg 1600w ,https://www.emilyc206.fyi/media/posts/1/responsive/000048300012-2xl.jpg 1920w">
+      <img loading="lazy" src="https://emilyc206.fyi/media/posts/1/000048300012.jpg" height="2075" width="3130" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://emilyc206.fyi/media/posts/1/responsive/000048300012-xs.jpg 640w ,https://emilyc206.fyi/media/posts/1/responsive/000048300012-sm.jpg 768w ,https://emilyc206.fyi/media/posts/1/responsive/000048300012-md.jpg 1024w ,https://emilyc206.fyi/media/posts/1/responsive/000048300012-lg.jpg 1366w ,https://emilyc206.fyi/media/posts/1/responsive/000048300012-xl.jpg 1600w ,https://emilyc206.fyi/media/posts/1/responsive/000048300012-2xl.jpg 1920w">
       <figcaption>Here's a picture of me practicing photography!</figcaption>
     </figure>
             ]]>
