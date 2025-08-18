@@ -3,12 +3,52 @@
     <title>Emily DEVELOPMENT Journey</title>
     <link href="https://emilyc206.fyi/feed.xml" rel="self" />
     <link href="https://emilyc206.fyi" />
-    <updated>2025-07-11T17:48:22-07:00</updated>
+    <updated>2025-08-18T05:02:40-07:00</updated>
     <author>
         <name>EmilyC206</name>
     </author>
     <id>https://emilyc206.fyi</id>
 
+    <entry>
+        <title>DEFCON 33</title>
+        <author>
+            <name>EmilyC206</name>
+        </author>
+        <link href="https://emilyc206.fyi/defcon-33.html"/>
+        <id>https://emilyc206.fyi/defcon-33.html</id>
+
+        <updated>2025-08-18T05:02:40-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Please consider this a placeholder.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Please consider this a placeholder.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>IT 125 Database Moment</title>
+        <author>
+            <name>EmilyC206</name>
+        </author>
+        <link href="https://emilyc206.fyi/it-125-database-moment.html"/>
+        <id>https://emilyc206.fyi/it-125-database-moment.html</id>
+
+        <updated>2025-07-16T18:44:52-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Well, what is your thought process?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Well, what is your thought process?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello World / IT 125</title>
         <author>

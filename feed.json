@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://emilyc206.fyi/defcon-33.html",
+            "url": "https://emilyc206.fyi/defcon-33.html",
+            "title": "DEFCON 33",
+            "summary": "Please consider this a placeholder.",
+            "content_html": "<p>Please consider this a placeholder.</p>",
+            "author": {
+                "name": "EmilyC206"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-18T05:02:40-07:00",
+            "date_modified": "2025-08-18T05:02:40-07:00"
+        },
+        {
+            "id": "https://emilyc206.fyi/it-125-database-moment.html",
+            "url": "https://emilyc206.fyi/it-125-database-moment.html",
+            "title": "IT 125 Database Moment",
+            "summary": "Well, what is your thought process?",
+            "content_html": "<p>Well, what is your thought process?</p>",
+            "author": {
+                "name": "EmilyC206"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-16T18:44:52-07:00",
+            "date_modified": "2025-07-16T18:44:52-07:00"
+        },
+        {
             "id": "https://emilyc206.fyi/hello-world-it-125.html",
             "url": "https://emilyc206.fyi/hello-world-it-125.html",
             "title": "Hello World / IT 125",
