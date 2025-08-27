@@ -3,7 +3,7 @@
     <title>Emily DEVELOPMENT Journey</title>
     <link href="https://emilyc206.fyi/feed.xml" rel="self" />
     <link href="https://emilyc206.fyi" />
-    <updated>2025-08-18T05:06:42-07:00</updated>
+    <updated>2025-08-26T18:59:22-07:00</updated>
     <author>
         <name>EmilyC206</name>
     </author>
@@ -20,12 +20,13 @@
         <updated>2025-08-18T05:02:40-07:00</updated>
             <summary>
                 <![CDATA[
-                    Please consider this a placeholder.
+                    DEFCON 33 represents the influential information security conferences in America.Tracing back to 1993, the convention was hosted by Jeff Moss, AKA Dark Tangent, as a farewell party for a fellow hacker moving abroad. Today, it is amassive annual convention with thousands of attendees, including nerds&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Please consider this a placeholder.</p>
+                <p>DEFCON 33 represents the influential information security conferences in America.Tracing back to 1993, the convention was hosted by Jeff Moss, AKA <em>Dark Tangent</em>, as a farewell party for a fellow hacker moving abroad. Today, it is  amassive annual convention with thousands of attendees, including nerds like myself. I would describe the core of DEFCON to be a community space; a space for people curious about technology to come together. <br><br>Everybody there was keen to share knowledge, demonstrate vulnerabilities, and push the boundaries of computing and security. For myself, I volunteered in the embedded systems villages dedicated to hardware hacking, pcb design, wireless security, and even social engineering as a whole.</p>
+<p>I had a great time taking part in this tradition. That I had a chance to blends serious security research with CTFs and "Cultural exchange". So remember, our goal is to celebrate openness, curiosity, and self improvments. I'm very glad to be a part of hacker history.</p>
             ]]>
         </content>
     </entry>
