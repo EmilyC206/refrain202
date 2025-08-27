@@ -26,16 +26,16 @@
         {
             "id": "https://emilyc206.fyi/it-125-database-moment.html",
             "url": "https://emilyc206.fyi/it-125-database-moment.html",
-            "title": "IT 125 Database Moment",
-            "summary": "Let me introduce to you IT125.",
-            "content_html": "<p>Let me introduce to you IT125.</p>",
+            "title": "Medical Database Design",
+            "summary": "Running a medical business is tough. I operate a small business with my Uncle focusing on first aid resupply. Some things I would have liked to keep track of include customers, inventory, and orders. It's not enought to stay organized; I've also got to be&hellip;",
+            "content_html": "<div class=\"prose text-pretty dark:prose-invert inline leading-relaxed break-words min-w-0 [word-break:break-word] prose-strong:font-medium\">\n<p>Running a medical business is tough. I operate a small business with my Uncle focusing on first aid resupply. Some things I would have liked to keep track of include customers, inventory, and orders. It's not enought to stay organized; I've also got to be responsive. <br><br>My solution? A SQL Database!<br><br>SQL databases make my job much smoother by keeping all business information together in a relational stucture. For example, I built a database using MySQL and Oracle's visualization tool, MySQL Workbench, <br><br>You can find on my repository the tables that store mock data such as customer details, product stock levels, order histories, and shipment status. Many medical businesses contract their IT out to a SaaS product or MSp. By making my own database with a front-end for staff, I am let make it possible for entry level employees to learn how to enter orders or update inventory without knowing technical SQL commands.<br><br>It's amazing what you can do with technology.</p>\n</div>",
             "author": {
                 "name": "EmilyC206"
             },
             "tags": [
             ],
             "date_published": "2025-07-16T18:44:52-07:00",
-            "date_modified": "2025-08-18T05:06:42-07:00"
+            "date_modified": "2025-08-26T22:47:42-07:00"
         },
         {
             "id": "https://emilyc206.fyi/hello-world-it-125.html",
